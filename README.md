@@ -1,2 +1,2 @@
-# lab8_php_database
+# lab8web
 PHP dan Database MySQL
